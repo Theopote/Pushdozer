@@ -1,2 +1,2 @@
-# Pushdozer.github.io
+# Pushdozer
 Pushdozer Mod usage documentation
