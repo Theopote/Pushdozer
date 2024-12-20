@@ -18,5 +18,5 @@
 # 1.2 Feedback
 
 If you have any questions or suggestions, feel free to:
-- Submit an [Issue](https://github.com/theopote/pushdozer/issues)
+- Submit an [Issue](https://github.com/Theopote/Pushdozer.github.io/issues)
 - Join our [Discord](https://discord.gg/your-server)
